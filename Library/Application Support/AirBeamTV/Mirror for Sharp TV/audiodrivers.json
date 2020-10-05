@@ -1,0 +1,11 @@
+{
+    "audiodrivers": [
+        {
+            "audiodriverID": "1004",
+            "driverversion":"2.20",
+            "uniqueID":"tv.airbeam.audiodriver_v2_2",
+            "minOSversion":"10.10.0",
+            "supportURL":"https://www.airbeam.tv/download-audio-driver/"
+        }
+    ]
+}
