@@ -1,0 +1,31 @@
+[2020-02-24 17:58:52.379] [exthost] [info] extension host started
+[2020-02-24 17:58:52.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-24 17:58:52.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-24 17:58:52.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-24 17:58:52.417] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2020-02-24 17:58:52.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2020-02-24 17:58:52.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2020-02-24 17:58:52.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-24 17:58:52.499] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2020-02-24 17:58:52.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-24 17:58:52.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/search-result/dist/extension.js
+[2020-02-24 17:58:52.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-24 17:58:52.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/vscode-account/dist/extension.js
+[2020-02-24 17:58:52.524] [exthost] [info] eager extensions activated
+[2020-02-24 17:58:52.661] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2020-02-24 17:58:52.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension
+[2020-02-24 17:58:52.700] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2020-02-24 17:58:52.703] [exthost] [error] Error: Git model not found
+	at c.getAPI (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:53:45535)
+	at new t.BuiltinGitProvider (/Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:1099383)
+	at Object.t.registerBuiltinGitProvider (/Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:1091923)
+	at /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:607565
+	at Generator.next (<anonymous>)
+	at /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:606015
+	at new Promise (<anonymous>)
+	at n (/Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:605792)
+	at t.activate (/Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0/media/extension.js:1:607338)
+	at Function._callActivateOptional (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:710:141)
+	at Function._callActivate (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:709:810)
+	at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:708:960
+	at async Promise.all (index 0)

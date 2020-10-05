@@ -1,0 +1,9 @@
+[2020-02-24 17:49:15.576] [sharedprocess] [info] main {"machineId":"764c03f7cdc25254e7858d760ae41034352d2da7c61b31c363aab297d3ce33b3","windowId":2}
+[2020-02-24 17:49:16.672] [sharedprocess] [info] Deleted from disk ms-python.python /Users/tazhnaebrooks/.vscode/extensions/ms-python.python-2020.1.58038
+[2020-02-24 17:49:55.550] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-24 17:50:36.726] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2020-02-24 17:50:37.716] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /var/folders/d3/k708m_cs7pzcpkr79r5zjmk80000gp/T/fc86fb31-a1b9-4b12-8d39-c8a547104476
+[2020-02-24 17:50:37.953] [sharedprocess] [info] Extracted extension to /Users/tazhnaebrooks/.vscode/extensions/.github.vscode-pull-request-github-0.14.0: github.vscode-pull-request-github
+[2020-02-24 17:50:37.954] [sharedprocess] [info] Renamed to /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0
+[2020-02-24 17:50:37.957] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2020-02-24 17:50:38.054] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github

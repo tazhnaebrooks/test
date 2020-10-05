@@ -1,0 +1,14 @@
+[2020-10-05 16:01:03.226] [sharedprocess] [info] main {"machineId":"764c03f7cdc25254e7858d760ae41034352d2da7c61b31c363aab297d3ce33b3","windowId":2}
+[2020-10-05 16:01:10.730] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2020-10-05 16:01:10.731] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-05 16:01:11.210] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /var/folders/d3/k708m_cs7pzcpkr79r5zjmk80000gp/T/14b73012-0ddc-4875-b6eb-b3cf16221963
+[2020-10-05 16:01:13.438] [sharedprocess] [info] Extracted extension to /Users/tazhnaebrooks/.vscode/extensions/.github.vscode-pull-request-github-0.15.0: github.vscode-pull-request-github
+[2020-10-05 16:01:13.440] [sharedprocess] [info] Renamed to /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.15.0
+[2020-10-05 16:01:13.450] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2020-10-05 16:01:14.119] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2020-10-05 16:01:16.326] [sharedprocess] [info] Downloaded extension: ms-python.python /var/folders/d3/k708m_cs7pzcpkr79r5zjmk80000gp/T/11a052ac-53f6-4dfc-b22e-1384e6f14f73
+[2020-10-05 16:01:36.778] [sharedprocess] [info] Extracted extension to /Users/tazhnaebrooks/.vscode/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-10-05 16:01:36.778] [sharedprocess] [info] Renamed to /Users/tazhnaebrooks/.vscode/extensions/ms-python.python-2020.5.86806
+[2020-10-05 16:01:36.790] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-05 16:01:36.887] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-10-05 16:01:44.771] [sharedprocess] [info] Starting to clean up unused language packs.

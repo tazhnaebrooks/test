@@ -1,0 +1,16 @@
+[2020-10-05 16:33:06.082] [sharedprocess] [info] main {"machineId":"764c03f7cdc25254e7858d760ae41034352d2da7c61b31c363aab297d3ce33b3","windowId":2}
+[2020-10-05 16:33:07.835] [sharedprocess] [info] Deleted from disk github.vscode-pull-request-github /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.14.0
+[2020-10-05 16:33:09.895] [sharedprocess] [info] Deleted from disk ms-python.python /Users/tazhnaebrooks/.vscode/extensions/ms-python.python-2020.3.69010
+[2020-10-05 16:33:31.706] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2020-10-05 16:33:31.706] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-05 16:33:32.427] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /Users/tazhnaebrooks/Library/Application Support/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.20.0
+[2020-10-05 16:33:34.511] [sharedprocess] [info] Extracted extension to /Users/tazhnaebrooks/.vscode/extensions/.github.vscode-pull-request-github-0.20.0: github.vscode-pull-request-github
+[2020-10-05 16:33:34.513] [sharedprocess] [info] Renamed to /Users/tazhnaebrooks/.vscode/extensions/github.vscode-pull-request-github-0.20.0
+[2020-10-05 16:33:34.522] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2020-10-05 16:33:35.556] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2020-10-05 16:33:38.672] [sharedprocess] [info] Downloaded extension: ms-python.python /Users/tazhnaebrooks/Library/Application Support/Code/CachedExtensionVSIXs/ms-python.python-2020.9.112786
+[2020-10-05 16:33:46.510] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-05 16:33:58.820] [sharedprocess] [info] Extracted extension to /Users/tazhnaebrooks/.vscode/extensions/.ms-python.python-2020.9.112786: ms-python.python
+[2020-10-05 16:33:58.825] [sharedprocess] [info] Renamed to /Users/tazhnaebrooks/.vscode/extensions/ms-python.python-2020.9.112786
+[2020-10-05 16:33:58.841] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-05 16:33:58.878] [sharedprocess] [info] Extensions installed successfully: ms-python.python

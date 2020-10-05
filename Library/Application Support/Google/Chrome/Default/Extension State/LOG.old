@@ -1,0 +1,123 @@
+2020/09/25-13:39:38.730 11203 Reusing MANIFEST /Users/tazhnaebrooks/Library/Application Support/Google/Chrome/Default/Extension State/MANIFEST-000001
+2020/09/25-13:39:38.732 11203 Recovering log #674
+2020/09/25-13:39:38.741 11203 Reusing old log /Users/tazhnaebrooks/Library/Application Support/Google/Chrome/Default/Extension State/000674.log 
+2020/09/25-14:45:46.896 1bf07 Level-0 table #678: started
+2020/09/25-14:45:46.945 1bf07 Level-0 table #678: 2295062 bytes OK
+2020/09/25-14:45:46.975 1bf07 Delete type=0 #674
+2020/09/25-14:45:46.987 1bf07 Compacting 4@0 + 1@1 files
+2020/09/25-14:45:47.043 1bf07 Generated table #679@0: 2 keys, 2991 bytes
+2020/09/25-14:45:47.043 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/09/25-14:45:47.073 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/25-14:45:47.077 1bf07 Delete type=2 #670
+2020/09/25-14:45:47.079 1bf07 Delete type=2 #672
+2020/09/25-14:45:47.079 1bf07 Delete type=2 #675
+2020/09/25-14:45:47.079 1bf07 Delete type=2 #678
+2020/09/25-14:45:47.079 1bf07 Delete type=2 #668
+2020/09/25-17:55:47.644 1bf07 Level-0 table #681: started
+2020/09/25-17:55:47.688 1bf07 Level-0 table #681: 2274102 bytes OK
+2020/09/25-17:55:47.714 1bf07 Delete type=0 #677
+2020/09/26-10:36:03.874 1bf07 Level-0 table #683: started
+2020/09/26-10:36:03.947 1bf07 Level-0 table #683: 2426382 bytes OK
+2020/09/26-10:36:03.977 1bf07 Delete type=0 #680
+2020/09/26-12:30:16.976 1bf07 Level-0 table #685: started
+2020/09/26-12:30:17.033 1bf07 Level-0 table #685: 2404077 bytes OK
+2020/09/26-12:30:17.057 1bf07 Delete type=0 #682
+2020/09/26-15:33:51.194 1bf07 Level-0 table #687: started
+2020/09/26-15:33:51.231 1bf07 Level-0 table #687: 2277340 bytes OK
+2020/09/26-15:33:51.268 1bf07 Delete type=0 #684
+2020/09/26-15:33:51.279 1bf07 Compacting 4@0 + 1@1 files
+2020/09/26-15:33:51.343 1bf07 Generated table #688@0: 2 keys, 2991 bytes
+2020/09/26-15:33:51.343 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/09/26-15:33:51.373 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/26-15:33:51.375 1bf07 Delete type=2 #679
+2020/09/26-15:33:51.376 1bf07 Delete type=2 #687
+2020/09/26-15:33:51.376 1bf07 Delete type=2 #685
+2020/09/26-15:33:51.376 1bf07 Delete type=2 #681
+2020/09/26-15:33:51.377 1bf07 Delete type=2 #683
+2020/09/27-11:39:53.054 1bf07 Level-0 table #690: started
+2020/09/27-11:39:53.103 1bf07 Level-0 table #690: 2274110 bytes OK
+2020/09/27-11:39:53.131 1bf07 Delete type=0 #686
+2020/09/27-19:28:31.399 1bf07 Level-0 table #692: started
+2020/09/27-19:28:31.459 1bf07 Level-0 table #692: 2273857 bytes OK
+2020/09/27-19:28:31.502 1bf07 Delete type=0 #689
+2020/09/27-22:17:28.885 1bf07 Level-0 table #694: started
+2020/09/27-22:17:28.933 1bf07 Level-0 table #694: 2272357 bytes OK
+2020/09/27-22:17:28.968 1bf07 Delete type=0 #691
+2020/09/28-12:32:05.460 1bf07 Level-0 table #696: started
+2020/09/28-12:32:05.513 1bf07 Level-0 table #696: 2274057 bytes OK
+2020/09/28-12:32:05.542 1bf07 Delete type=0 #693
+2020/09/28-12:32:05.547 1bf07 Compacting 4@0 + 1@1 files
+2020/09/28-12:32:05.603 1bf07 Generated table #697@0: 2 keys, 2991 bytes
+2020/09/28-12:32:05.603 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/09/28-12:32:05.627 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/28-12:32:05.628 1bf07 Delete type=2 #688
+2020/09/28-12:32:05.630 1bf07 Delete type=2 #692
+2020/09/28-12:32:05.630 1bf07 Delete type=2 #690
+2020/09/28-12:32:05.631 1bf07 Delete type=2 #694
+2020/09/28-12:32:05.631 1bf07 Delete type=2 #696
+2020/09/28-16:09:50.642 1bf07 Level-0 table #699: started
+2020/09/28-16:09:50.716 1bf07 Level-0 table #699: 2286673 bytes OK
+2020/09/28-16:09:50.746 1bf07 Delete type=0 #695
+2020/09/28-22:02:14.230 1bf07 Level-0 table #701: started
+2020/09/28-22:02:14.303 1bf07 Level-0 table #701: 2272807 bytes OK
+2020/09/28-22:02:14.345 1bf07 Delete type=0 #698
+2020/09/29-09:00:48.982 1bf07 Level-0 table #703: started
+2020/09/29-09:00:49.056 1bf07 Level-0 table #703: 2271697 bytes OK
+2020/09/29-09:00:49.090 1bf07 Delete type=0 #700
+2020/09/29-12:01:55.577 1bf07 Level-0 table #705: started
+2020/09/29-12:01:55.668 1bf07 Level-0 table #705: 2271580 bytes OK
+2020/09/29-12:01:55.719 1bf07 Delete type=0 #702
+2020/09/29-12:01:55.731 1bf07 Compacting 4@0 + 1@1 files
+2020/09/29-12:01:55.898 1bf07 Generated table #706@0: 2 keys, 2991 bytes
+2020/09/29-12:01:55.898 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/09/29-12:01:55.930 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/29-12:01:55.931 1bf07 Delete type=2 #705
+2020/09/29-12:01:55.932 1bf07 Delete type=2 #699
+2020/09/29-12:01:55.932 1bf07 Delete type=2 #703
+2020/09/29-12:01:55.932 1bf07 Delete type=2 #701
+2020/09/29-12:01:55.932 1bf07 Delete type=2 #697
+2020/09/29-15:13:32.840 1bf07 Level-0 table #708: started
+2020/09/29-15:13:32.900 1bf07 Level-0 table #708: 2270190 bytes OK
+2020/09/29-15:13:32.934 1bf07 Delete type=0 #704
+2020/09/29-18:33:03.446 1bf07 Level-0 table #710: started
+2020/09/29-18:33:03.508 1bf07 Level-0 table #710: 2274020 bytes OK
+2020/09/29-18:33:03.545 1bf07 Delete type=0 #707
+2020/09/29-21:31:37.782 1bf07 Level-0 table #712: started
+2020/09/29-21:31:37.873 1bf07 Level-0 table #712: 2270675 bytes OK
+2020/09/29-21:31:37.899 1bf07 Delete type=0 #709
+2020/09/29-23:36:36.838 1bf07 Level-0 table #714: started
+2020/09/29-23:36:37.223 1bf07 Level-0 table #714: 2273713 bytes OK
+2020/09/29-23:36:37.407 1bf07 Delete type=0 #711
+2020/09/29-23:36:37.417 1bf07 Compacting 4@0 + 1@1 files
+2020/09/29-23:36:37.507 1bf07 Generated table #715@0: 2 keys, 2991 bytes
+2020/09/29-23:36:37.507 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/09/29-23:36:37.659 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/29-23:36:37.797 1bf07 Delete type=2 #710
+2020/09/29-23:36:37.797 1bf07 Delete type=2 #712
+2020/09/29-23:36:37.797 1bf07 Delete type=2 #706
+2020/09/29-23:36:37.797 1bf07 Delete type=2 #714
+2020/09/29-23:36:37.797 1bf07 Delete type=2 #708
+2020/09/30-11:15:22.322 1bf07 Level-0 table #717: started
+2020/09/30-11:15:22.403 1bf07 Level-0 table #717: 2272813 bytes OK
+2020/09/30-11:15:22.450 1bf07 Delete type=0 #713
+2020/09/30-13:46:34.402 1bf07 Level-0 table #719: started
+2020/09/30-13:46:34.480 1bf07 Level-0 table #719: 2284568 bytes OK
+2020/09/30-13:46:34.520 1bf07 Delete type=0 #716
+2020/09/30-21:08:24.410 1bf07 Level-0 table #721: started
+2020/09/30-21:08:24.524 1bf07 Level-0 table #721: 2273679 bytes OK
+2020/09/30-21:08:24.559 1bf07 Delete type=0 #718
+2020/10/01-13:29:28.458 1bf07 Level-0 table #723: started
+2020/10/01-13:29:28.535 1bf07 Level-0 table #723: 2294853 bytes OK
+2020/10/01-13:29:28.563 1bf07 Delete type=0 #720
+2020/10/01-13:29:28.573 1bf07 Compacting 4@0 + 1@1 files
+2020/10/01-13:29:28.696 1bf07 Generated table #724@0: 2 keys, 2991 bytes
+2020/10/01-13:29:28.700 1bf07 Compacted 4@0 + 1@1 files => 2991 bytes
+2020/10/01-13:29:28.746 1bf07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/01-13:29:28.747 1bf07 Delete type=2 #717
+2020/10/01-13:29:28.747 1bf07 Delete type=2 #715
+2020/10/01-13:29:28.747 1bf07 Delete type=2 #719
+2020/10/01-13:29:28.748 1bf07 Delete type=2 #723
+2020/10/01-13:29:28.748 1bf07 Delete type=2 #721
+2020/10/02-09:35:54.462 1bf07 Level-0 table #726: started
+2020/10/02-09:35:54.546 1bf07 Level-0 table #726: 2277178 bytes OK
+2020/10/02-09:35:54.587 1bf07 Delete type=0 #722

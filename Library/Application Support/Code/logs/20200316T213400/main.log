@@ -1,0 +1,8 @@
+[2020-03-16 21:34:00.998] [main] [info] update#setState idle
+[2020-03-16 21:34:31.006] [main] [info] update#setState checking for updates
+[2020-03-16 21:34:31.264] [main] [info] update#setState downloading
+[2020-03-16 21:36:54.107] [main] [error] UpdateService error: The request timed out.
+[2020-03-16 21:36:54.107] [main] [info] update#setState idle
+[2020-03-16 22:34:31.185] [main] [info] update#setState checking for updates
+[2020-03-16 22:34:31.573] [main] [info] update#setState downloading
+[2020-03-16 22:35:42.016] [main] [info] update#setState ready
